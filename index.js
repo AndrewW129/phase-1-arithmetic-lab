@@ -1,2 +1,7 @@
+const num1 = 31;
 
-// Write your code here
+const num2 = 2;
+
+const multiply = num1 * num2;
+
+console.log(multiply);
